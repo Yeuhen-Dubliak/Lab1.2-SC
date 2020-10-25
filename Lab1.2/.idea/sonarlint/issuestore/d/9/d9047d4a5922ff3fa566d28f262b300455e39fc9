@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áªø8”ŸÒƒÖ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö…éÎúÿÿÿÿ8³ì¾ƒÖ.
+o
+java:S29753"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(£‚g8°ê‚Ö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×ÌÚœ8×µŸ„Ö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³ú¡æ8õ€ÑƒÖ.
